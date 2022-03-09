@@ -7,6 +7,7 @@
 module.exports = {
   /* Your site config here */
   plugins: [
+    "gatsby-plugin-netlify",
     `gatsby-transformer-remark`,
     `gatsby-plugin-image`,
     `gatsby-plugin-sharp`,
